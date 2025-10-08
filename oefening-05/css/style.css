@@ -1,0 +1,12 @@
+article {
+    width: 12vw;
+    height: 23vh;
+    padding: 1vh;
+    color: white;
+}
+
+
+article:nth-child(1) {
+    padding: ;
+    background-color: #ffb705;
+}
